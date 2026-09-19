@@ -1,1 +1,1 @@
-Over time, I've been building skills around frontend development, Java, DSA, and full-stack development. I like keeping things simple, understanding how systems work, and turning ideas into working products. Currently focused on building, learning, and deploying real-world projects.
+`Over time, I've been building skills around frontend development, Java, DSA, and full-stack development. I like keeping things simple, understanding how systems work, and turning ideas into working products. Currently focused on building, learning, and deploying real-world projects.`
